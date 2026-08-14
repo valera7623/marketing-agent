@@ -1,0 +1,36 @@
+id,status,sent_at,author,author_id,game_name,reply,reply_at,notes
+301,sent,2026-08-12,color500,,Celeste-like platformer prototype,,,reply https://discord.com/channels/1021378341267320872/1064526595030782043/1537078390753071265
+302,sent,2026-08-12,Olonnais,,Bellum Galliae,,,reply https://discord.com/channels/1021378341267320872/1064526595030782043/1537080200918212608
+303,sent,2026-08-12,Razjinh,,DONG,,,reply https://discord.com/channels/1021378341267320872/1064526595030782043/1537080383126900838
+304,sent,2026-08-12,papapoule75,,Retour a Ithaque,,,reply https://discord.com/channels/1021378341267320872/1064526595030782043/1537080526148472843
+401,sent,2026-08-12,DiolProd,,CJK language support,,,comment as QualityIll3242 on https://www.reddit.com/r/gamedev/comments/1vlx5z4/chinese_japanese_korean_language_support_in_games/
+402,sent,2026-08-12,OliviaCSoftware,,Crossroad Chaos,,,manual comment as QualityIll3242 on https://www.reddit.com/r/gamedev/comments/1vlw518/looking_for_some_feedback_on_my_steam_page_its/
+403,sent,2026-08-12,LengthinessScared17,,E.A.D CORE,,,manual comment as QualityIll3242 on https://www.reddit.com/r/IndieGaming/comments/1vmasy9/were_a_tiny_indie_team_making_our_very_first_game/
+404,sent,2026-08-12,ImperialAssassin,,Purgatoria,,,manual comment as QualityIll3242 (Day1 retry) on https://www.reddit.com/r/gamedev/comments/1vkxg6m/we_just_released_our_steam_page_a_week_ago_and/
+501,sent,2026-08-12,Tessermind,,HOLD MY WHEEL,,,comment as Valeriy on https://vk.ru/wall-54148442_101235 Steam app/4410360
+601,sent,2026-08-12,Garry,,The Red Triangle Factory,,,manual reply in @gamedev_chat_rus Steam app/4103210
+5,pending_no_post,2026-08-11,guild_owner,1201599511747887204,Ashen Hollow,,,,
+6,pending_no_post,,,,,,,,
+7,pending,,,,,,,,
+20,pending,,,,,,,,
+1,blocked_account,2026-08-11,ImperialAssassin,,Purgatoria,,,NOT SENT — Reddit lockout after automation; draft in logs/scout_reddit_20260811.md https://www.reddit.com/r/gamedev/comments/1vkxg6m/
+2,sent,2026-08-11,AperoDerg,,godot CSV plurals,,,comment as QualityIll3242 on https://www.reddit.com/r/godot/comments/1pk95l7/how_does_the_new_csv_localization_plural_system/
+3,blocked_account,2026-08-11,YSSSSSSSSSSSSSSSSS,,Soulcery: Deck of Shadows,,,NOT SENT — Reddit lockout; draft in logs/scout_reddit_20260811.md https://www.reddit.com/r/Unity3D/comments/1pmjyfa/
+4,blocked_account,2026-08-11,EnvironmentalEase446,,Dice Tavern,,,NOT SENT — Reddit lockout; draft in logs/scout_reddit_20260811.md https://www.reddit.com/r/IndieGaming/comments/1vlcw8h/
+16,sent,2026-08-11,Dabdyy,,Kindawn: The Parish Remembers,,,reply in @gamedev_chat_rus to release post; Steam app/4556270
+15,sent,2026-08-11,Oliver Orangers,,ChildStory 2: Say Cheese!,,,comment as Valeriy on https://vk.ru/wall-54148442_101146 Steam app/3847530
+203,sent,2026-08-11,Valeriy Maximov,,Xenolocus,,,comment as Valeriy on https://vk.ru/wall-177670490_1608 Steam app/3708210
+101,pending_no_post,,,,,,,
+102,pending_no_post,,,,,,,
+201,sent,2026-08-11,zebra3d,,Click and Slash,,,reply https://discord.com/channels/1021378341267320872/1064526595030782043/1536652875999223888
+202,sent,2026-08-11,Mephistase,,Safe Zone,,,reply https://discord.com/channels/1021378341267320872/1064526595030782043/1536654132415434862
+305,sent,2026-08-14,KevinB,,Wardraft,,,reply in https://discord.com/channels/1021378341267320872/1197137534547939339/threads/1511295422612635668
+306,sent,2026-08-14,Zaly,,Rot within,,,reply in https://discord.com/channels/1021378341267320872/1197137534547939339/threads/1523726894783271022
+307,sent,2026-08-14,Graines De Pixels,,2 Etoiles sont nees,,,reply in https://discord.com/channels/1021378341267320872/1197137534547939339/threads/1498806012071645266
+308,pending,2026-08-14,TobyKaos,,Rallycross Legends,,,Day3 Discord playtest card Rallycross — find in #playtest itch chaosinteractive
+405,sent,2026-08-13,Any_Low_1706,,THE CANON OF BALLS,,,manual comment as QualityIll3242 on https://www.reddit.com/r/IndieGaming/comments/1vnaq3g/launching_my_first_game_on_steam_today_the_canon/
+406,sent,2026-08-13,Ciwiel_RG,,GrimKeep,,,manual comment as QualityIll3242 on https://www.reddit.com/r/gamedev/comments/1vn8adc/stupid_issues_players_found_in_our_alpha_playtest/ Steam app/3509380
+407,sent,2026-08-13,thewokelama,,Guns and Gargoyles,,,manual comment as QualityIll3242 on https://www.reddit.com/r/gamedev/comments/1vn6voy/how_big_is_the_retro_rpg_market_and_how_many/ Steam app/5049920
+408,sent,2026-08-13,hellforged_game,,Hellforged Demo,,,manual comment as QualityIll3242 on https://www.reddit.com/r/IndieGaming/comments/1vna45s/the_demo_for_our_game_hellforged_is_live_on_steam/ demo app/4692610
+502,sent,2026-08-13,Егор Кропанцев,,Bit and Life,,,comment as Valeriy on https://vk.ru/wall-177670490_1620 first VN demo gamedev56
+602,sent,2026-08-13,,,value-post gamedev_chat_rus,,,manual Option A @gamedev_chat_rus Day3 scout_tg_20260813.md

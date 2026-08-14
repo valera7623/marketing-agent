@@ -1,0 +1,62 @@
+{
+  "llm": {
+    "provider": "ollama",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "api_base": "http://127.0.0.1:11434"
+  },
+  "discord_token": "",
+  "discord": {
+    "enabled": true,
+    "guild_id": "",
+    "default_channel_id": "",
+    "channel_map": {},
+    "channel_map_pending": {},
+    "keywords": [
+      "localiz",
+      "localisation",
+      "localization",
+      "translate",
+      "translation",
+      "перевод",
+      "локализ",
+      "мультиязыч",
+      "multilang",
+      "i18n",
+      "l10n",
+      "csv",
+      "steam",
+      "wishlist",
+      "godot",
+      "unity",
+      "indie",
+      "released",
+      "showcase",
+      "языки"
+    ],
+    "fallback_latest": false,
+    "prefer_dm": true,
+    "channel_fallback": false,
+    "allow_seed_dm": true,
+    "test_user_id": "",
+    "test_username": "",
+    "test_game_name": "Ashen Hollow",
+    "dry_run": false,
+    "test_drive": true,
+    "test_drive_limit": 2,
+    "daily_limit": 10,
+    "cooldown_days": 7,
+    "contacted_file": "contacted_users.json",
+    "history_limit": 50,
+    "delay_min": 20,
+    "delay_max": 60,
+    "listen_replies_seconds": 0
+  },
+  "discord_channels": [],
+  "telegram_token": "",
+  "vk_token": "",
+  "reddit": {
+    "client_id": "",
+    "client_secret": "",
+    "user_agent": "LocForge Marketing Agent"
+  }
+}
