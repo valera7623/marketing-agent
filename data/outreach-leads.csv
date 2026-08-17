@@ -64,4 +64,14 @@ id,status,sent_at,author,author_id,game_name,reply,reply_at,notes
 420,sent,2026-08-16,from_elio,,House of Tides,,,manual comment as QualityIll3242 on https://www.reddit.com/r/IndieGaming/comments/1vpljod/what_would_you_do_to_make_this_5second_horror/ Steam app/4865600
 505,sent,2026-08-16,Watt Studio,,TSAREVNA Age of Tales,,,manual comment as Valeriy on https://vk.ru/wall-177670490_1622 Steam app/3348640
 605,sent,2026-08-16,,,value-post gamedev glossary,,,manual @gamedev_chat_rus Day6 scout_tg_20260816.md
+801,sent,2026-08-17,Павел,,BLTS,,,manual comment Day7 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=296763
+802,sent,2026-08-17,Vokeev,,Reoxia,,,manual comment Day7 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=295105
+803,sent,2026-08-17,,,Intersectio,,,manual comment Day7 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=294287
+804,sent,2026-08-17,kokonGames,,LITER,,,manual comment Day7 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=296766
+506,sent,2026-08-17,,,AFTER THE SILENCE,,,manual comment Day7 CIS VK KRRI https://vk.ru/wall-133063458_26926
+507,sent,2026-08-17,,,Leon&Suharto,,,manual comment Day7 CIS VK KRRI https://vk.ru/wall-133063458_26905
+508,sent,2026-08-17,,,Blood of the Martyrs,,,manual comment Day7 CIS VK KRRI https://vk.ru/wall-133063458_26904
+606,sent,2026-08-17,,,value-post godot length,,,manual @godot_engine Day7 scout_tg_20260817.md
+607,skipped,2026-08-17,,,gamedev reply skip,,,Day7 no fresh Steam/demo thread
+421,skipped,2026-08-17,,,CIS Reddit skip,,,Day7 no CIS author post
 

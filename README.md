@@ -70,8 +70,8 @@ Day 2 (2026-08-12): `plans/day-02-2026-08-12.md` · `logs/scout_discord_20260812
 Day 3 (2026-08-13): `plans/day-03-2026-08-13.md` · Reddit ready · Discord/VK/TG hold login  
 Day 4 (2026-08-14): `plans/day-04-2026-08-14.md` · Reddit/VK/TG/Discord done  
 Day 5 (2026-08-15): `plans/day-05-2026-08-15.md` · done  
-Day 6 (2026-08-16): `plans/day-06-2026-08-16.md` · done (317 blocked · rest sent)
-
+Day 6 (2026-08-16): `plans/day-06-2026-08-16.md` · done (317 blocked · rest sent)  
+Day 7 (2026-08-17): `plans/day-07-2026-08-17.md` · CIS mix done (801–804 · 506–508 · 606 sent · 607 + Reddit skipped)
 
 ## Workflow: Reddit
 
