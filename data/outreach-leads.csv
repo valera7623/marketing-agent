@@ -74,4 +74,23 @@ id,status,sent_at,author,author_id,game_name,reply,reply_at,notes
 606,sent,2026-08-17,,,value-post godot length,,,manual @godot_engine Day7 scout_tg_20260817.md
 607,skipped,2026-08-17,,,gamedev reply skip,,,Day7 no fresh Steam/demo thread
 421,skipped,2026-08-17,,,CIS Reddit skip,,,Day7 no CIS author post
-
+805,sent,2026-08-18,BooTheJudge,,Unstable Mage,,,manual comment Day8 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=296638
+806,sent,2026-08-18,Butjok2,,Project Venus,,,manual comment Day8 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=293847
+807,sent,2026-08-18,SwipeCeoGame,,SwipeCEO,,,manual comment Day8 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=296573
+808,sent,2026-08-18,Karabin18,,Autobattler RTS,,,manual comment Day8 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=296756
+509,sent,2026-08-18,Одуван Геймз,,Potion-making Path of the Alchemist,,,manual comment Day8 CIS VK KRRI https://vk.ru/wall-133063458_26934 Steam app/3710120
+510,sent,2026-08-18,,,Choice of Life Floors,,,manual comment Day8 CIS VK KRRI https://vk.ru/wall-133063458_26925 Steam app/4227090
+511,sent,2026-08-18,,,Impersonal,,,manual comment Day8 CIS VK KRRI https://vk.ru/wall-133063458_26920 Steam app/4973950
+608,skipped,2026-08-18,,,value-post gamedev export skip,,,Day8 @gamedev_chat_rus chatter — no value-post
+609,skipped,2026-08-18,,,gamedev reply skip,,,Day8 chatter / no Steam-demo thread
+422,sent,2026-08-18,Xakkar55,,Choice of Life Floors,,,manual comment Day8 CIS Reddit https://www.reddit.com/r/indiegames/comments/1vniu5s/choice_of_life_floors_is_out_now/ Steam app/4227090
+809,sent,2026-08-20,anomal3,,Bomber Party,,,manual sent Day9 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=296838 Steam app/2534310
+810,sent,2026-08-20,Roundcrafter,,2.5Dungeon,,,manual sent Day9 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=296826 Godot
+811,sent,2026-08-20,LeonidLO,,Starec Rus 14v,,,manual sent Day9 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=295858
+812,sent,2026-08-20,AndrejErmolenko,,duel turn-based strategy,,,manual sent Day9 CIS GameDev.ru https://gamedev.ru/projects/forum/?id=296700
+512,sent,2026-08-20,Gemenot Digital,,Feodika,,,manual sent Day9 CIS VK KRRI https://vk.ru/wall-133063458_26892 Steam app/3634470
+513,sent,2026-08-20,Squirrel Melting,,Creepy Support,,,manual sent Day9 CIS VK KRRI https://vk.ru/wall-133063458_26912 Steam app/3685900
+514,sent,2026-08-20,Go North Studio,,Spears and Spirits,,,manual sent Day9 CIS VK KRRI https://vk.ru/wall-133063458_26860 Steam app/4916810
+610,sent,2026-08-20,,,value-post gamedev lore glossary,,,manual sent Day9 @gamedev_chat_rus scout_tg_20260820.md
+611,sent,2026-08-20,,,value-post godot Localization keys,,,manual sent Day9 @godot_engine scout_tg_20260820.md
+423,sent,2026-08-20,Purple-Eagle-2696,,Russian Punk 2007 Quantum Nostalgia,,,manual sent Day9 CIS Reddit https://www.reddit.com/r/FPS/comments/1vr2928/im_making_a_surreal_fps_about_a_postsoviet/ Steam app/3206310
