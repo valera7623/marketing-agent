@@ -73,7 +73,8 @@ Day 5 (2026-08-15): `plans/day-05-2026-08-15.md` · done
 Day 6 (2026-08-16): `plans/day-06-2026-08-16.md` · done (317 blocked · rest sent)  
 Day 7 (2026-08-17): `plans/day-07-2026-08-17.md` · CIS mix done (801–804 · 506–508 · 606 sent · 607 + Reddit skipped)  
 Day 8 (2026-08-18): `plans/day-08-2026-08-18.md` · done (608–609 TG skipped · chatter)  
-Day 9 (2026-08-20): `plans/day-09-2026-08-20.md` · done (809–812 · 512–514 · 610–611 · 423 sent)
+Day 9 (2026-08-20): `plans/day-09-2026-08-20.md` · done (809–812 · 512–514 · 610–611 · 423 sent)  
+Day 10 (2026-08-22): `plans/day-10-2026-08-22.md` · done (813–816 · 515–517 · 612–613 sent · 424 skipped)
 
 ## Workflow: Reddit
 
