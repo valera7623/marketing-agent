@@ -47,12 +47,12 @@ https://www.reddit.com/r/SUB/comments/ID/slug/
 3. Замените `{game}` на реальное название.
 4. Один comment на автора в день; не дублируйте в нескольких сабах сразу.
 
-Шаблон `comment_en` (из плана):
+**Тон:** `docs/MESSAGING.md`
+
+Шаблон `comment_en` (одна боль, не каталог фич):
 
 ```
-If you already have key,source CSV, LocForge does glossary + length QA + Unity/Godot export without a bureau — useful before Steam multilingual. Happy to pilot for free if you DM a sample.
-
-https://gameforge.website/en/locforge?utm_source=reddit&utm_medium=comment&utm_campaign=lf_en&from=locforge
+Unity/Godot Localization usually covers the table — the painful bit is often {glossary drift / UI overflow / achievement strings ≠ in-game}. LocForge does QA on that layer without a bureau. Happy to pilot on a sample CSV if useful — DM or link in profile.
 ```
 
 ---

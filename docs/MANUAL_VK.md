@@ -2,6 +2,8 @@
 
 Когда `vk_token` в `data/config.json` пуст — скаут и отправка **вручную** через браузер (как Reddit).
 
+**Тон и шаблоны:** `docs/MESSAGING.md` (обязательно перед Day12+)
+
 Связанные файлы:
 - план дня: `plans/day-01-2026-08-10.md` (касание id=15)
 - отчёты скаута: `logs/scout_vk_*.md`
@@ -54,15 +56,26 @@ UTM: `utm_source=vk&utm_medium=comment&utm_campaign=lf_ru`
 2. Холодные ЛС новым аккаунтам VK часто режет / помечает как спам.
 3. UTM: `utm_medium=dm`.
 
-Шаблон `dm_ru` (из плана):
+Шаблон `comment_ru` (см. также `docs/MESSAGING.md`):
 
 ```
-Привет! Увидел {игру / пост}. LocForge — локализация инди CSV за один вечер: глоссарий, QA длины UI, экспорт Unity/Godot.
+Привет! Увидел {игра} — {конкретное наблюдение по посту}.
 
-Могу сделать бесплатный пилот (RU/ES/DE) — особенно удобно, если сейчас EN-сборка, а RU/ES/DE нужны до Steam. Если ок — укажем игру в кейсе на лендинге.
+Пакет локализации в движке таблицу соберёт, а вот {одна боль} часто всплывает уже на втором языке.
+
+Могу бесплатно прогнать sample, если актуально.
+
+https://gameforge.website/ru/locforge?utm_source=vk&utm_medium=comment&utm_campaign=lf_ru&from=locforge
+```
+
+Шаблон `dm_ru` (после ответа OP):
+
+```
+Привет! По {игре}: LocForge — QA глоссария и длины UI по CSV (поверх Unity/Godot Localization), без бюро.
+
+Могу бесплатный пилот на sample. Если ок — укажем в кейсе.
 
 https://gameforge.website/ru/locforge?utm_source=vk&utm_medium=dm&utm_campaign=lf_ru&from=locforge
-Или просто пришлите CSV в ответ.
 ```
 
 ---

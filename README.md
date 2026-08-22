@@ -66,6 +66,8 @@ python scout.py "URL"
 copy data\config.example.json data\config.json
 ```
 
+**Тон сообщений:** `docs/MESSAGING.md`
+
 Day 2 (2026-08-12): `plans/day-02-2026-08-12.md` · `logs/scout_discord_20260812.md`  
 Day 3 (2026-08-13): `plans/day-03-2026-08-13.md` · Reddit ready · Discord/VK/TG hold login  
 Day 4 (2026-08-14): `plans/day-04-2026-08-14.md` · Reddit/VK/TG/Discord done  
@@ -74,7 +76,8 @@ Day 6 (2026-08-16): `plans/day-06-2026-08-16.md` · done (317 blocked · rest se
 Day 7 (2026-08-17): `plans/day-07-2026-08-17.md` · CIS mix done (801–804 · 506–508 · 606 sent · 607 + Reddit skipped)  
 Day 8 (2026-08-18): `plans/day-08-2026-08-18.md` · done (608–609 TG skipped · chatter)  
 Day 9 (2026-08-20): `plans/day-09-2026-08-20.md` · done (809–812 · 512–514 · 610–611 · 423 sent)  
-Day 10 (2026-08-22): `plans/day-10-2026-08-22.md` · done (813–816 · 515–517 · 612–613 sent · 424 skipped)
+Day 10 (2026-08-22): `plans/day-10-2026-08-22.md` · done (813–816 · 515–517 · 612–613 sent · 424 skipped)  
+Day 11 (2026-08-23): `plans/day-11-2026-08-23.md` · done (518–520 sent · 817–820 blocked gamedev.ru · 614–615 skipped · 425 skipped)
 
 ## Workflow: Reddit
 
